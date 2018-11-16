@@ -12,6 +12,7 @@
     "type": "git",
     "url": "https://github.com/lregla/ng-masonry-grid.git"
   },
+  "main": "dist/ng-masonry-grid.umd.js",
   "author": {
     "name": "Shailendra Kumar",
     "email": "shailu.snist@gmail.com"
