@@ -6,6 +6,7 @@
     "build": "gulp build",
     "build:watch": "gulp",
     "demo": "ng serve --port 4201",
+    "prepare": "gulp build",
     "postinstall": "npm install && gulp build"
   },
   "repository": {
